@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/saiyamjain/Downloads/QuestionAnswering/bert/.cxx/Debug/4n712r4e/arm64-v8a",
+  "command": "/home/saiyamjain/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android30 --gcc-toolchain=/home/saiyamjain/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/saiyamjain/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dqa_EXPORTS -I/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/inc -I/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/inc/zdl -I/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/inc/hpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/qa.dir/native-lib.cpp.o -c /home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/native-lib.cpp",
+  "file": "/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "/home/saiyamjain/Downloads/QuestionAnswering/bert/.cxx/Debug/4n712r4e/arm64-v8a",
+  "command": "/home/saiyamjain/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android30 --gcc-toolchain=/home/saiyamjain/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/saiyamjain/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dqa_EXPORTS -I/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/inc -I/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/inc/zdl -I/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/inc/hpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/qa.dir/inference.cpp.o -c /home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/inference.cpp",
+  "file": "/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/inference.cpp"
+},
+
+{
+  "directory": "/home/saiyamjain/Downloads/QuestionAnswering/bert/.cxx/Debug/4n712r4e/arm64-v8a",
+  "command": "/home/saiyamjain/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android30 --gcc-toolchain=/home/saiyamjain/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/saiyamjain/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dqa_EXPORTS -I/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/inc -I/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/inc/zdl -I/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/inc/hpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/qa.dir/inference_helper.cpp.o -c /home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/inference_helper.cpp",
+  "file": "/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/inference_helper.cpp"
+}
+]

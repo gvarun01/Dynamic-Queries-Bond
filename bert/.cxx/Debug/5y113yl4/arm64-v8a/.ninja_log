@@ -1,0 +1,20 @@
+# ninja log v5
+0	693	1731405024	CMakeFiles/qa.dir/native-lib.cpp.o	55cbfe9d8938a748
+1	887	1731405024	CMakeFiles/qa.dir/inference.cpp.o	e7e334f2800da1cc
+0	983	1731405024	CMakeFiles/qa.dir/inference_helper.cpp.o	9f4181c0fb562ba3
+983	1129	1731405024	/home/saiyamjain/Downloads/QuestionAnswering/bert/build/intermediates/cxx/Debug/5y113yl4/obj/arm64-v8a/libqa.so	c2f964e8681010e3
+1	448	1733081058	/home/saiyamjain/Downloads/QuestionAnswering/bert/build/intermediates/cxx/Debug/5y113yl4/obj/arm64-v8a/libqa.so	c2f964e8681010e3
+0	323	1733093841	/home/saiyamjain/Downloads/QuestionAnswering/bert/build/intermediates/cxx/Debug/5y113yl4/obj/arm64-v8a/libqa.so	c2f964e8681010e3
+0	190	1733170692	/home/saiyamjain/Downloads/QuestionAnswering/bert/build/intermediates/cxx/Debug/5y113yl4/obj/arm64-v8a/libqa.so	c2f964e8681010e3
+0	3	0	clean	5bdd2c6353c36a1a
+1	1123	1733287078	CMakeFiles/qa.dir/native-lib.cpp.o	55cbfe9d8938a748
+1	1402	1733287079	CMakeFiles/qa.dir/inference.cpp.o	e7e334f2800da1cc
+1	1542	1733287079	CMakeFiles/qa.dir/inference_helper.cpp.o	9f4181c0fb562ba3
+1542	1721	1733287079	/home/saiyamjain/Downloads/QuestionAnswering/bert/build/intermediates/cxx/Debug/5y113yl4/obj/arm64-v8a/libqa.so	c2f964e8681010e3
+0	3	0	clean	5bdd2c6353c36a1a
+1	953	1733287843	CMakeFiles/qa.dir/native-lib.cpp.o	55cbfe9d8938a748
+2	1180	1733287843	CMakeFiles/qa.dir/inference.cpp.o	e7e334f2800da1cc
+1	1420	1733287843	CMakeFiles/qa.dir/inference_helper.cpp.o	9f4181c0fb562ba3
+1420	1603	1733287844	/home/saiyamjain/Downloads/QuestionAnswering/bert/build/intermediates/cxx/Debug/5y113yl4/obj/arm64-v8a/libqa.so	c2f964e8681010e3
+3	298	1733290373	/home/saiyamjain/Downloads/QuestionAnswering/bert/build/intermediates/cxx/Debug/5y113yl4/obj/arm64-v8a/libqa.so	c2f964e8681010e3
+0	2	0	clean	5bdd2c6353c36a1a

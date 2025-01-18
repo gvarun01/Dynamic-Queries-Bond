@@ -1,0 +1,3 @@
+/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/.cxx/Debug/6g203k11/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/.cxx/Debug/6g203k11/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/.cxx/Debug/6g203k11/arm64-v8a/CMakeFiles/qa.dir

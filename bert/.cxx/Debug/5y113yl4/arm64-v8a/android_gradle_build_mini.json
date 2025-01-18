@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/saiyamjain/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/saiyamjain/Downloads/QuestionAnswering/bert/.cxx/Debug/5y113yl4/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/saiyamjain/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/saiyamjain/Downloads/QuestionAnswering/bert/.cxx/Debug/5y113yl4/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "qa-Debug-arm64-v8a": {
+      "artifactName": "qa",
+      "buildCommandComponents": [
+        "/home/saiyamjain/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/saiyamjain/Downloads/QuestionAnswering/bert/.cxx/Debug/5y113yl4/arm64-v8a",
+        "qa"
+      ],
+      "abi": "arm64-v8a",
+      "output": "/home/saiyamjain/Downloads/QuestionAnswering/bert/build/intermediates/cxx/Debug/5y113yl4/obj/arm64-v8a/libqa.so",
+      "runtimeFiles": [
+        "/home/saiyamjain/Downloads/QuestionAnswering/bert/src/main/cmakeLibs/arm64-v8a/libSNPE.so"
+      ]
+    }
+  }
+}

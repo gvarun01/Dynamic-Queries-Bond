@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/saiyamjain/Downloads/QuestionAnswering/bert/.cxx/Debug/4n712r4e/arm64-v8a'
+ninja: no work to do.

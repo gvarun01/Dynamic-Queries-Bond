@@ -1,0 +1,9 @@
+# ninja log v5
+1	438	1728368733	CMakeFiles/qa.dir/native-lib.cpp.o	c2d2443f749b0571
+1	544	1728368733	CMakeFiles/qa.dir/inference.cpp.o	fd4348d6765bb10b
+1	683	1728368734	CMakeFiles/qa.dir/inference_helper.cpp.o	dd05ddbb11b54a13
+683	801	1728368734	/home/atharva/Downloads/QIDK/qidk/Solutions/NLPSolution1-QuestionAnswering/QuestionAnswering/bert/build/intermediates/cxx/Debug/501v4ta2/obj/arm64-v8a/libqa.so	3d57bfe4f8c26b22
+3	497	1728369612	CMakeFiles/qa.dir/native-lib.cpp.o	7f6a98cecc1a252e
+3	637	1728369612	CMakeFiles/qa.dir/inference.cpp.o	95660afaf9d40125
+3	709	1728369612	CMakeFiles/qa.dir/inference_helper.cpp.o	b20187fb68a42f52
+710	839	1728369612	/home/atharva/Downloads/QIDK/qidk/Solutions/NLPSolution1-QuestionAnswering/QuestionAnswering/bert/build/intermediates/cxx/Debug/501v4ta2/obj/arm64-v8a/libqa.so	f6367b97e38108c

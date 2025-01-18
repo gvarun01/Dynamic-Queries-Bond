@@ -1,0 +1,42 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/atharva/Downloads/QIDK/qidk/Solutions/NLPSolution1-QuestionAnswering/QuestionAnswering/bert/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/atharva/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/atharva/Downloads/QIDK/qidk/Solutions/NLPSolution1-QuestionAnswering/QuestionAnswering/bert/.cxx/Debug/501v4ta2/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/atharva/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/atharva/Downloads/QIDK/qidk/Solutions/NLPSolution1-QuestionAnswering/QuestionAnswering/bert/.cxx/Debug/501v4ta2/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "qa-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/home/atharva/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/atharva/Downloads/QIDK/qidk/Solutions/NLPSolution1-QuestionAnswering/QuestionAnswering/bert/.cxx/Debug/501v4ta2/arm64-v8a",
+        "qa"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "qa",
+      "output": "/home/atharva/Downloads/QIDK/qidk/Solutions/NLPSolution1-QuestionAnswering/QuestionAnswering/bert/build/intermediates/cxx/Debug/501v4ta2/obj/arm64-v8a/libqa.so",
+      "runtimeFiles": [
+        "/home/atharva/Downloads/QIDK/qidk/Solutions/NLPSolution1-QuestionAnswering/QuestionAnswering/bert/src/main/cmakeLibs/arm64-v8a/libSNPE.so"
+      ]
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

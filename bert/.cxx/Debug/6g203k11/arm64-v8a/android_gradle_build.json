@@ -1,0 +1,42 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/saiyamjain/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/.cxx/Debug/6g203k11/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/saiyamjain/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/.cxx/Debug/6g203k11/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "qa-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/home/saiyamjain/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/.cxx/Debug/6g203k11/arm64-v8a",
+        "qa"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "qa",
+      "output": "/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/build/intermediates/cxx/Debug/6g203k11/obj/arm64-v8a/libqa.so",
+      "runtimeFiles": [
+        "/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/src/main/cmakeLibs/arm64-v8a/libSNPE.so"
+      ]
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

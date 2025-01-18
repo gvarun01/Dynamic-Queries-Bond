@@ -1,0 +1,3 @@
+/home/saiyamjain/Downloads/QuestionAnswering/bert/.cxx/Debug/5y113yl4/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/saiyamjain/Downloads/QuestionAnswering/bert/.cxx/Debug/5y113yl4/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/saiyamjain/Downloads/QuestionAnswering/bert/.cxx/Debug/5y113yl4/arm64-v8a/CMakeFiles/qa.dir

@@ -1,0 +1,27 @@
+# ninja log v5
+0	729	1728973635	CMakeFiles/qa.dir/native-lib.cpp.o	8bf1890a5bbfdbbc
+1	957	1728973635	CMakeFiles/qa.dir/inference.cpp.o	c2293df8a7bff3d5
+1	1093	1728973635	CMakeFiles/qa.dir/inference_helper.cpp.o	62887a2489976e96
+1093	1254	1728973635	/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/build/intermediates/cxx/Debug/6g203k11/obj/arm64-v8a/libqa.so	b242a7f8eb7e8991
+0	2	0	clean	5bdd2c6353c36a1a
+1	763	1728974016	CMakeFiles/qa.dir/native-lib.cpp.o	8bf1890a5bbfdbbc
+1	878	1728974016	CMakeFiles/qa.dir/inference.cpp.o	c2293df8a7bff3d5
+1	1049	1728974016	CMakeFiles/qa.dir/inference_helper.cpp.o	62887a2489976e96
+1050	1213	1728974016	/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/build/intermediates/cxx/Debug/6g203k11/obj/arm64-v8a/libqa.so	b242a7f8eb7e8991
+1	155	1728975394	/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/build/intermediates/cxx/Debug/6g203k11/obj/arm64-v8a/libqa.so	b242a7f8eb7e8991
+0	3	0	clean	5bdd2c6353c36a1a
+1	680	1728979135	CMakeFiles/qa.dir/native-lib.cpp.o	8bf1890a5bbfdbbc
+1	843	1728979136	CMakeFiles/qa.dir/inference.cpp.o	c2293df8a7bff3d5
+2	967	1728979136	CMakeFiles/qa.dir/inference_helper.cpp.o	62887a2489976e96
+967	1121	1728979136	/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/build/intermediates/cxx/Debug/6g203k11/obj/arm64-v8a/libqa.so	b242a7f8eb7e8991
+0	2	0	clean	5bdd2c6353c36a1a
+0	615	1728980873	CMakeFiles/qa.dir/native-lib.cpp.o	8bf1890a5bbfdbbc
+0	776	1728980873	CMakeFiles/qa.dir/inference.cpp.o	c2293df8a7bff3d5
+1	919	1728980874	CMakeFiles/qa.dir/inference_helper.cpp.o	62887a2489976e96
+919	1082	1728980874	/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/build/intermediates/cxx/Debug/6g203k11/obj/arm64-v8a/libqa.so	b242a7f8eb7e8991
+0	178	1728982327	/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/build/intermediates/cxx/Debug/6g203k11/obj/arm64-v8a/libqa.so	b242a7f8eb7e8991
+0	3	0	clean	5bdd2c6353c36a1a
+1	640	1729507018	CMakeFiles/qa.dir/native-lib.cpp.o	8bf1890a5bbfdbbc
+1	798	1729507019	CMakeFiles/qa.dir/inference.cpp.o	c2293df8a7bff3d5
+1	914	1729507019	CMakeFiles/qa.dir/inference_helper.cpp.o	62887a2489976e96
+914	1080	1729507019	/home/saiyamjain/Downloads/NLPSolution1-QuestionAnswering (1)/QuestionAnswering/bert/build/intermediates/cxx/Debug/6g203k11/obj/arm64-v8a/libqa.so	b242a7f8eb7e8991

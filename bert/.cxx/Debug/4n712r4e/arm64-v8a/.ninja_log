@@ -1,0 +1,5 @@
+# ninja log v5
+0	603	1729587786	CMakeFiles/qa.dir/native-lib.cpp.o	55cbfe9d8938a748
+0	781	1729587786	CMakeFiles/qa.dir/inference.cpp.o	e7e334f2800da1cc
+0	921	1729587786	CMakeFiles/qa.dir/inference_helper.cpp.o	9f4181c0fb562ba3
+921	1076	1729587786	/home/saiyamjain/Downloads/QuestionAnswering/bert/build/intermediates/cxx/Debug/4n712r4e/obj/arm64-v8a/libqa.so	9dc6495cd916ee80
